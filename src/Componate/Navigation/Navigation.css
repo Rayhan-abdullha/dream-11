@@ -1,0 +1,10 @@
+.navigation {
+    text-align: center;
+}
+nav.navbar.navbar-expand.navbar-light a {
+    color: #fff;
+    font-size: 18px;
+}
+nav.navbar.navbar-expand.navbar-light a:hover {
+    color: rgb(214, 214, 214)
+}
